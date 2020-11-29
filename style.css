@@ -5,6 +5,7 @@ p{
 
 p:first-of-type{
     color: violet;
+    font-size: 35px;
 }
 
 .container{
